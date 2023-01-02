@@ -1,0 +1,31 @@
+{
+	"name": "Ultrix-swp08",
+	"version": "1.0.0",
+	"api_version": "1.0.0",
+	"keywords": [
+		"Router",
+		"Matrix",
+		"Broadcast",
+		"Production"
+	],
+	"manufacturer": "RossVideo",
+	"product": [
+		"SW-P-08 Ross Router",
+	],
+	"shortname": "ULTRIX-SW-P-08",
+	"description": "General Remote Control Protocol for RossVideo Ultrix(SW-P-08)",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "Peter Daniel, Charles-Henri Lizée",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/bitfocus/companion-module-generic-swp08/issues"
+	},
+	"homepage": "https://github.com/bitfocus/companion-module-generic-swp08#readme",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/bitfocus/companion-module-generic-swp08.git"
+	}
+}
